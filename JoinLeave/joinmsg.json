@@ -1,0 +1,6 @@
+{
+    "732376382654644355": {
+        "channel_id": 732400737270628435,
+        "message": "Willkommen {user.mention} ({user.tag}). Du bist das **{server.count}te** Mitglied auf {server.name}"
+    }
+}
